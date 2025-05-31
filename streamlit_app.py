@@ -8,7 +8,7 @@ from snowflake.snowpark.functions import col
 # Write directly to the app
 st.title(f":cup_with_straw: Customize Your Smoothie! :cup_with_straw: ")
 st.write(
-  """ choose the fruits you want in your custom Smoothie!
+  """ Choose the fruits you want in your custom Smoothie!
   """
     # as 3 aspas permitem a quebra de linha e evita ter que usar o \n
 )
