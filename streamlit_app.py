@@ -1,5 +1,5 @@
 # Import python packages
-import streamlit as st
+#import streamlit as st
 from snowflake.snowpark.functions import col
 streamlit.title('My Parents New Healthy Diner')
 streamlit.subtitle('Breakfast Menu')
