@@ -6,7 +6,7 @@ from snowflake.snowpark.functions import col
 # ou st.markdown("### Breakfast Menu")
 
 # Write directly to the app
-#st.title(f":cup_with_straw: Customize Your Smoothie! :cup_with_straw: ")
+st.title(f":cup_with_straw: Customize Your Smoothie! :cup_with_straw: ")
 st.write(
   """ choose the fruits you want in your custom Smoothie!
   """
